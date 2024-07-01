@@ -1,0 +1,1094 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: black;
+}
+#navheadings{
+    margin-left: 35%;
+    margin-top: -5%;
+    
+}
+#navheadings ul{
+    display: flex;
+    margin-left: 20px;
+}
+#logoimg{
+    width: 110px;
+    height: 22px;
+    margin-left:5%;
+    margin-top: 2%;
+}
+#nav-li{
+    list-style: none;
+}
+
+#nav-li button{
+    /* margin: 20%; */
+    color: grey;
+    background-color: black;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    margin-left:4%;
+    margin-top: -15%;
+    width: 100px;
+
+}
+#nav-libutton{
+    border: none;
+
+}
+#nav-buttondiv{
+    margin-top: -3%;
+}
+#nav-button{
+    margin-left: 90%;
+    color: grey;
+    background-color: black;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+     border: none;
+}
+
+
+/* landing */
+#landing-content{
+    margin-top: 15%;
+    margin-left: 3%;
+    padding: 20px;
+    position: relative;
+    
+}
+#landing-content h1{
+    color: white;
+}
+#landing-p{
+    color: grey;
+    text-align: wrap;
+    line-height: 4vh;
+    padding: 10px;
+    margin-left: -8px;
+
+}
+#landingimg{
+    /* position: absolute; */
+    margin-left: 2%;
+    margin-top: -18%;
+}
+#abstract-landing{
+    margin-left: 3%;
+    margin-top: -7%;
+}
+#landing-textimg{
+    margin-left: 70%;
+    margin-top: -5%;
+}
+
+/* brands */
+#brands{
+    margin-top: 10%;
+    color: grey;
+    text-align: center;
+}
+#brand-logo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+#brand-logo img{
+    width: 200px;
+    height: 40px;
+}
+
+
+/* portrait/event/commercial */
+#portrait-header{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#buttonimg{
+    width: 100px;
+    height: 40px;
+    margin-right: 5%;
+    margin-top: -20px;
+}
+
+#portrait{
+    margin-top: 5%;
+  
+}
+#portraitimg1{
+    margin-left: 5%;
+    text-align: start;
+   
+}
+#portraitimg2{
+    margin-left: -4%;
+    text-align: start;
+}
+#portraitimg3{
+    margin-left: -5%;
+    text-align: start;
+}
+#portrait-img{
+    width: 350px;
+    height: 400px;
+}
+#portrait-p1{
+    color: white;
+}
+
+#portrait-p2{
+    color: grey;
+}
+#viewproject{
+    /* float: right; */
+    margin-top: -30%;
+    margin-left: 45%;
+}
+
+/* faq */
+#faq-content{
+    margin-left: 5%;
+}
+#faq-content p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 8%;
+}
+#faq-content h3{
+    color: white;
+}
+#faqrow{
+    margin-left: 4%;
+}
+#faqcol2{
+    margin-left: -1%;
+}
+
+/* testimonials */
+#testimonialcontent{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#testimonialcontent p{
+    color: grey;
+    margin-top: 20px;
+}
+#testimonialcontent h3{
+    color: white;
+}
+
+#testimonial{
+    margin-top: 5%;
+}
+#testimonialcard2{
+    background-color: #151515;
+    color: grey;
+    margin-left: -2%;
+    padding: 8px;
+}
+#testimonialcard3{
+    background-color: #151515;
+    color: grey;
+    margin-left: -5%;
+    padding: 8px;
+}
+
+#testimonialcard1{
+    background-color: #151515;
+    color: grey;
+    margin-left: 5%;
+    padding: 8px;
+    
+}
+#review-socials{
+    margin-top: -20%;
+    margin-left: 50%;
+    padding: 15px;
+    color: white;
+}
+#review-socialsi{
+    padding: 5px;
+}
+#review-star{
+    margin-top: 8%;
+}
+#review-stari{
+    color: goldenrod;
+
+}
+
+
+/* damien */
+#damien{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+#damienLogo2{
+    width: 900px;
+    height: 150px;
+}
+
+/* types */
+#typeofwork{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+#typeofworkli{
+    list-style: none;
+    font-size: 15px;
+    color: grey;
+    padding: 10px;
+}
+
+/* footer1 */
+#leftE{
+    margin-top: 5%;
+}
+#footer1col1{
+    margin-top: -12%;
+    margin-left: 15%;
+    color: white;
+}
+#footer1col1 p{
+    color: grey;
+}
+#footer1col1 h1{
+    font-size: 60px;
+}
+#footer1home{
+    margin-top: -22%;
+    margin-left: 85%;
+    text-align: justify;
+}
+#footer1home p{
+    margin-left: 30px;
+    color: grey;
+}
+
+#footer1homeli{
+    list-style: none;
+}
+#footer1homea{
+    color: grey;
+    text-decoration: grey;
+}
+#footer1home2{
+    margin-top: -22%;
+    margin-left: 110%;
+    text-align: justify;
+}
+#footer1home2 p{
+    margin-left: 30px;
+    color: grey;
+}
+#footer1home3{
+    margin-top: -22%;
+    margin-left: 130%;
+    text-align: justify;
+}
+#footer1home3 p{
+    margin-left: 30px;
+    color: grey;
+}
+#footer1home4{
+    margin-top: -22%;
+    margin-left: 150%;
+    text-align: justify;
+}
+#footer1home4 p{
+    margin-left: 30px;
+    color: grey;
+}
+#rightE{
+    margin-top: -15%;
+    margin-left: 95%;
+}
+#footer2{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    margin: 2%;
+}
+#footer2 i{
+    padding: 10px;
+}
+
+
+
+/* media queries */
+
+@media(max-width:576px){
+    #navheadings{
+        margin-left: 25%;
+        margin-top: -20%;
+    }
+    #navheadings ul{
+        display: block;
+        margin-left: 20px;
+    }
+    #nav-buttondiv{
+        margin-top: -35%;
+    }
+    #nav-button{
+        margin-left: 65%;
+        color: grey;
+        background-color: black;
+        font-size: 15px;
+        padding: 10px;
+        text-align: center;
+         border: none;
+    }
+    /* landing */
+    #landing-content{
+    margin-top: 25%;
+    }
+    #landing-content h1{
+    color: white;
+    }
+    #landing-p{
+    color: grey;
+    text-align: wrap;
+    line-height: 4vh;
+    padding: 10px;
+    margin-left: -8px;
+
+    }
+    #landingimg{
+    margin-left: 1%;
+    margin-top: -15%;
+    width: 100%;
+    }
+    #abstract-landing{
+    margin-left:-1%;
+    margin-top: -7%;
+    }
+    #abstract-landing img{
+       width: 50px; 
+    }
+    #landing-textimg{
+    margin-left: 70%;
+    margin-top: -12%;
+    }
+    #landing-textimg img{
+        width: 100%;
+    }
+
+
+    /* brands */
+    #brands{
+    margin-top: 15%;
+    color: grey;
+    text-align: center;
+    }
+    #brand-logo{
+    display: block;
+    text-align: center;
+    margin-top: 2%;
+    padding: 10px;
+    }
+    #brand-logo img{
+    width: 200px;
+    height: 40px;
+    }
+
+    /* portrait/event/commercial */
+    #portrait-header{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    margin-top: 5%;
+    margin-left: 5%;
+    }
+    #buttonimg{
+    width: 100px;
+    height: 40px;
+    margin-right: 8%;
+    margin-top: 0px;
+    }
+
+    #portrait{
+    margin-top: 5%;
+  
+    }
+    #portraitimg1{
+    margin-left: 5%;
+    text-align: start;
+   
+    }
+    #portraitimg2{
+    margin-left: 5%;
+    text-align: start;
+    }
+    #portraitimg3{
+    margin-left: 5%;
+    text-align: start;
+    }
+    #portrait-img{
+    width: 350px;
+    height: 400px;
+    }
+    #portrait-p1{
+    color: white;
+    }
+
+    #portrait-p2{
+    color: grey;
+    }
+    #viewproject{
+    margin-top: -10%;
+    margin-left: 0%;
+    }
+
+    /* faq */
+    #faq-content{
+    margin-left: 10%;
+    }
+    #faq-content p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 8%;
+    color: grey;
+    }
+    #faq-content h3{
+    color: white;
+    margin-left: -10px;
+    }
+    #faqrow{
+    margin-left: 1%;
+    }
+    #faqcol2{
+    margin-left: 1%;
+    }
+
+    /* testimonials */
+    #testimonialcontent{
+    margin-left: 5%;
+    margin-top: 5%;
+    }
+    #testimonialcontent p{
+    color: grey;
+    margin-top: 20px;
+    }
+    #testimonialcontent h3{
+    color: white;
+    }
+
+    #testimonial{
+    margin-top: 5%;
+    }
+    #testimonialcard2{
+    background-color: #151515;
+    color: grey;
+    margin-left: 3%;
+    padding: 10px;
+    }
+    #testimonialcard3{
+    background-color: #151515;
+    color: grey;
+    margin-left: 3%;
+    padding: 10px;
+    }
+
+    #testimonialcard1{
+    background-color: #151515;
+    color: grey;
+    margin-left: 3%;
+    padding: 10px;
+    
+    }
+    
+    /* damien */
+    #damien{
+    margin-left: 20%;
+    margin-top: 5%;
+    }
+    #damienLogo2{
+    width: 300px;
+    height: 70px;
+    }
+
+    /* types */
+    #typeofwork{
+    margin-top: 5%;
+    margin-left: 25%;
+    display: block;
+    }
+   
+
+    /* footer1 */
+    #leftE{
+    margin-top: 5%;
+    }
+    #footer1col1{
+    margin-top: -40%;
+    margin-left: 15%;
+    color: white;
+    }
+    #footer1col1 p{
+    color: grey;
+    }
+    #footer1col1 h1{
+    font-size: 40px;
+    }
+    #footer1home{
+    margin-top: 0;
+    margin-left: 10%;
+    text-align: justify;
+    }
+    #footer1home p{
+    margin-left: 30px;
+    color: grey;
+    }
+   
+    #footer1home2{
+    margin-top: -32%;
+    margin-left: 10%;
+    text-align: center;
+    }
+    #footer1home2 p{
+    margin-left: 30px;
+    color: grey;
+    }
+    #footer1home3{
+    margin-top: 5%;
+    margin-left: 10%;
+    text-align: justify;
+    }
+    #footer1home3 p{
+    margin-left: 30px;
+    color: grey;
+    }
+    #footer1home4{
+    margin-top: -43%;
+    margin-left: 45%;
+    text-align: justify;
+    }
+    #footer1home4 p{
+    margin-left: 30px;
+    color: grey;
+    }
+    #rightE{
+    margin-top: -65%;
+    margin-left: 75%;
+    }
+
+    #footer2{
+        display: block;
+        text-align: center;
+        color: grey;
+        margin: 2%;
+    }
+   
+}
+
+@media(min-width:577px)and(max-width:768px){
+    #navheadings{
+        margin-left: 25%;
+        margin-top: -20%;
+    }
+    #navheadings ul{
+        display: block;
+        margin-left: 20px;
+    }
+    #nav-buttondiv{
+        margin-top: -35%;
+    }
+    #nav-buttondiv{
+        margin-top: -25%;
+    }
+    #nav-button{
+        margin-left: 65%;
+        color: grey;
+        background-color: black;
+        font-size: 15px;
+        padding: 10px;
+        text-align: center;
+         border: none;
+    }
+    /* landing */
+    #landing-content{
+        margin-top: 25%;
+        }
+        #landing-content h1{
+        color: white;
+        }
+        #landing-p{
+        color: grey;
+        text-align: wrap;
+        line-height: 4vh;
+        padding: 10px;
+        margin-left: -8px;
+    
+        }
+        #landingimg{
+        margin-left: 1%;
+        margin-top: -15%;
+        width: 100%;
+        }
+        #abstract-landing{
+        margin-left:-1%;
+        margin-top: -7%;
+        }
+        #abstract-landing img{
+           width: 50px; 
+        }
+        #landing-textimg{
+        margin-left: 70%;
+        margin-top: -12%;
+        }
+        #landing-textimg img{
+            width: 100%;
+        }
+         #portraitimg1{
+        margin-left: 10%;
+        text-align: start;
+       
+        }
+        #portraitimg2{
+        margin-left: 10%;
+        text-align: start;
+        }
+        #portraitimg3{
+        margin-left: 10%;
+        text-align: start;
+        }
+        /* testimonials */
+    #testimonialcontent{
+        margin-left: 5%;
+        margin-top: 5%;
+        }
+        #testimonialcontent p{
+        color: grey;
+        margin-top: 20px;
+        }
+        #testimonialcontent h3{
+        color: white;
+        }
+    
+        #testimonial{
+        margin-top: 5%;
+        }
+        #testimonialcard2{
+        background-color: #151515;
+        color: grey;
+        margin-left: 3%;
+        padding: 10px;
+        }
+        #testimonialcard3{
+        background-color: #151515;
+        color: grey;
+        margin-left: 3%;
+        padding: 10px;
+        }
+    
+        #testimonialcard1{
+        background-color: #151515;
+        color: grey;
+        margin-left: 3%;
+        padding: 10px;
+        
+        }
+        #review-socials{
+            margin-top: -10%;
+            margin-left: 50%;
+            padding: 15px;
+            color: white;
+        }
+        #review-socialsi{
+            padding: 5px;
+        }
+        #review-star{
+            margin-top: 8%;
+        }
+        #damien{
+            margin-left: 43%;
+            margin-top: 5%;
+            }
+        #damienLogo2{
+                width: 300px;
+                height: 70px;
+        }
+         /* types */
+        #typeofwork{
+        margin-top: 5%;
+        margin-left: 38%;
+        display: block;
+        }
+         /* footer1 */
+        #leftE{
+        margin-top: 5%;
+        }
+        #footer1col1{
+        margin-top: -30%;
+        margin-left: 25%;
+        color: white;
+        }
+        #footer1col1 p{
+        color: grey;
+        }
+        #footer1col1 h1{
+        font-size: 40px;
+        }
+        #footer1home{
+        margin-top: 0;
+        margin-left: 10%;
+        text-align: justify;
+        }
+        #footer1home p{
+        margin-left: 30px;
+        color: grey;
+        }
+       
+        #footer1home2{
+        margin-top: -24%;
+        margin-left: 10%;
+        text-align: center;
+        }
+        #footer1home2 p{
+        margin-left: 30px;
+        color: grey;
+        }
+        #footer1home3{
+        margin-top: 5%;
+        margin-left: 10%;
+        text-align: justify;
+        }
+        #footer1home3 p{
+        margin-left: 30px;
+        color: grey;
+        }
+        #footer1home4{
+        margin-top: -30%;
+        margin-left: 48%;
+        text-align: justify;
+        }
+        #footer1home4 p{
+        margin-left: 30px;
+        color: grey;
+        }
+        #rightE{
+        margin-top: -50%;
+        margin-left: 83%;
+        }
+    
+        #footer2{
+            display: block;
+            text-align: center;
+            color: grey;
+            margin: 2%;
+        }
+
+}
+
+@media(min-width:769px)and(max-width:991px){
+    #navheadings{
+        margin-left: 32%;
+        margin-top: -9%;
+        
+    }
+    #navheadings ul{
+        display: flex;
+        margin-left: 10px;
+    }
+    #nav-buttondiv{
+        margin-top: -6%;
+    }
+    #nav-button{
+        margin-left: 85%;
+        color: grey;
+        background-color: black;
+        font-size: 15px;
+        padding: 10px;
+        text-align: center;
+        border: none;
+    }
+    /* landing */
+
+    #landingimg{
+    margin-left: -10%;
+    margin-top: -18%;
+    width: 100%;
+    display: none;
+    }
+
+
+    #abstract-landing{
+    margin-left: -3%;
+    margin-top: -9%;
+    }
+    #abstract-landing img{
+    width: 80px; 
+     }
+    #landing-textimg{
+    margin-left: 75%;
+    margin-top: -10%;
+    }
+
+    /* brands */
+
+    #brand-logo{
+    display: block;
+    margin-top: 2%;
+    margin-left: 35%;
+    }
+
+
+
+    /* portrait/event/commercial */
+    #portrait-header{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    margin-top: 5%;
+    margin-left: 5%;
+    }
+    #buttonimg{
+    width: 100px;
+    height: 40px;
+    margin-right: 5%;
+    margin-top: -20px;
+    }
+
+    #portrait{
+    margin-top: 5%;
+  
+    }
+    #portraitimg1{
+    margin-left: 5%;
+    text-align: start;
+   
+    }
+    #portraitimg2{
+    margin-left: -2%;
+    text-align: start;
+    }
+    #portraitimg3{
+    margin-left: -3%;
+    text-align: start;
+    }
+    #portrait-img{
+    width: 250px;
+    height: 300px;
+    }
+    #portrait-p1{
+    color: white;
+    }
+
+    #portrait-p2{
+    color: grey;
+    }
+    #viewproject{
+    /* float: right; */
+    margin-top: -30%;
+    margin-left: 45%;
+    }
+
+    /* faq */
+    #faq-content{
+    margin-left: 5%;
+    }
+    #faq-content p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 8%;
+    }
+    #faq-content h3{
+    color: white;
+    }
+    #faqrow{
+    margin-left: 4%;
+    }
+    #faqcol2{
+    margin-left: -1%;
+    }
+
+    /* testimonials */
+    #testimonialcontent{
+    margin-left: 5%;
+    margin-top: 5%;
+    }
+    #testimonialcontent p{
+    color: grey;
+    margin-top: 20px;
+    }
+    #testimonialcontent h3{
+    color: white;
+    }
+
+    #testimonial{
+    margin-top: 5%;
+    }
+    #testimonialcard2{
+    background-color: #151515;
+    color: grey;
+    margin-left: -2%;
+    padding: 8px;
+    }
+    #testimonialcard3{
+    background-color: #151515;
+    color: grey;
+    margin-left: -2%;
+    padding: 8px;
+    }
+
+    #testimonialcard1{
+    background-color: #151515;
+    color: grey;
+    margin-left: 2%;
+    padding: 8px;
+    
+    }
+    #review-socials{
+    margin-top: -20%;
+    margin-left: 50%;
+    padding: 15px;
+    color: white;
+    }
+    #review-socialsi{
+    padding: 5px;
+    }
+    #review-star{
+    margin-top: 8%;
+    }
+    #review-stari{
+    color: goldenrod;
+
+    }
+
+
+    /* damien */
+    #damien{
+    margin-left: 25%;
+    margin-top: 5%;
+    }
+    #damienLogo2{
+    width: 600px;
+    height: 100px;
+    }
+
+    /* types */
+    #typeofwork{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    }
+    #typeofworkli{
+    list-style: none;
+    font-size: 15px;
+    color: grey;
+    padding: 10px;
+    }
+
+    /* footer1 */
+    #leftE{
+    margin-top: 8%;
+    }
+    #footer1col1{
+    margin-top: -22%;
+    margin-left: 28%;
+    color: white;
+    }
+    #footer1col1 p{
+    color: grey;
+    }
+    #footer1col1 h1{
+    font-size: 60px;
+    }
+    #footer1home{
+    margin-top: 10%;
+    margin-left: 15%;
+    text-align: justify;
+    }
+    #footer1home p{
+    margin-left: 30px;
+    color: grey;
+    }
+
+    #footer1homeli{
+    list-style: none;
+    }
+    #footer1homea{
+        color: grey;
+        text-decoration: grey;
+    }
+    #footer1home2{
+        margin-top: 8%;
+        margin-left: 20%;
+        text-align: justify;
+    }
+    #footer1home2 p{
+        margin-left: 30px;
+        color: grey;
+    }
+    #footer1home3{
+        margin-top: -43%;
+        margin-left: 100%;
+        text-align: justify;
+    }
+    #footer1home3 p{
+        margin-left: 30px;
+        color: grey;
+    }
+    #footer1home4{
+        margin-top: -43%;
+        margin-left: 150%;
+        text-align: justify;
+    }
+    #footer1home4 p{
+        margin-left: 30px;
+        color: grey;
+    }
+    #rightE{
+        margin-top: -83%;
+        margin-left: 90%;
+    }
+    #footer2{
+        display: block;
+        color: grey;
+        margin: 2%;
+        text-align: center;
+    }
+    #footer2 i{
+        padding: 10px;
+    }
+
+
+}
+
+/* @media(min-width:992px){
+    #navheadings{
+        margin-left: 32%;
+        margin-top: -9%;
+        
+    }
+    #navheadings ul{
+        display: flex;
+        margin-left: 10px;
+    }
+    #nav-buttondiv{
+        margin-top: -6%;
+    }
+    #nav-button{
+        margin-left: 85%;
+        color: grey;
+        background-color: black;
+        font-size: 15px;
+        padding: 10px;
+        text-align: center;
+        border: none;
+    }
+} */
